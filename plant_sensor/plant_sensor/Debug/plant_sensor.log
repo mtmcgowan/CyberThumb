@@ -1,0 +1,18 @@
+﻿  functions.c
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(47): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[48]'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(47): warning C4024: 'read_data': different types for formal and actual parameter 2
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(48): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[48]'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(48): warning C4024: 'read_data': different types for formal and actual parameter 2
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(49): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[48]'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(49): warning C4024: 'read_data': different types for formal and actual parameter 2
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(53): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[48]'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(53): warning C4024: 'test_light': different types for formal and actual parameter 1
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(54): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[48]'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(54): warning C4024: 'test_temp': different types for formal and actual parameter 1
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(55): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[48]'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(55): warning C4024: 'test_moisture': different types for formal and actual parameter 1
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(78): warning C4013: 'read_integer' undefined; assuming extern returning int
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(181): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(181): warning C4024: 'find_max': different types for formal and actual parameter 1
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(81): warning C4716: 'read_plant': must return a value
+c:\users\mmcgowan\dropbox\coursework\cpts121\plant_sensor\plant_sensor\functions.c(166): warning C4716: 'read_moist_days': must return a value
